@@ -1,13 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SoheeLee😄&fontSize=70)
-li{list-style:none;}
+
 
 Hi there 👋 
 
 <div align=center>
   
 ## 💫 Interest 💫
-<ul>
+<ul style=None>
   <li> Backend </li>
   <li> Machine Learning </li>
   <li> AI </li>
