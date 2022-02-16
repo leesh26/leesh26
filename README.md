@@ -13,17 +13,14 @@ I'm Sohee Lee. I'm interested in Backend and ML/AI.
 
 
 ## 🌱 Tech Stack 🌱
+<div align=center>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </br>
-
-<div align=center>
-</div>
-
 
 ![leesh26's github stats](https://github-readme-stats.vercel.app/api?username=leesh26&show_icons=true)
 [![leesh26's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh26&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/leesh26)
 
-
+</div>
 
 
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=esh1026">
