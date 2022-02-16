@@ -7,11 +7,10 @@ Hi there 👋
   
 ## 💫 Interest 💫
 <ul>
-  <li>
-    <p> Backend </p>
-    <p> Machine Learning </p>
-    <p> AI </p>
-  </li>
+  <li> Backend </li>
+  <li> Machine Learning </li>
+  <li> AI </li>
+</ul>
 </br>
     
 ## 🌱 Tech Stack 🌱
