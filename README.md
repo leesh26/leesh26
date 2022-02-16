@@ -5,7 +5,7 @@ Hi there 👋
 
 <div align=center>
   
-## 💫 Interest 
+## 💫 Interest 💫
 </br>
     
 ## 🌱 Tech Stack 🌱
