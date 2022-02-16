@@ -7,9 +7,9 @@ I'm Sohee Lee. I'm interested in Backend and ML/AI.
 
 
 ## ✨ Experience ✨
-2017.02 - 2021.02 
-2021.02 - 2021.04 Posco Bigdata/Ai academy
-2021.07 - 2021.12 Intern
+2017.02 - 2021.02   
+2021.02 - 2021.04 Posco Bigdata/Ai academy  
+2021.07 - 2021.12 Intern  
 
 
 ## 🌱 Tech Stack 🌱
