@@ -8,9 +8,8 @@ I'm interested in Backend and ML/AI.
 <div align=center>
   
 ## ✨ Experience ✨
-2017.02 - 2021.02   
-2021.02 - 2021.04 Posco Bigdata/Ai academy  
-2021.07 - 2021.12 Intern  
+2021.02 - 2021.04 Posco Bigdata/Ai Academy  
+2021.07 - 2021.12 Infinitt healthcare Intern
 
 
 ## 🌱 Tech Stack 🌱
