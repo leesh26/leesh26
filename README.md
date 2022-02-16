@@ -5,7 +5,7 @@
 Hi there 👋 I'm Sohee Lee.   
 I'm interested in Backend and ML/AI.  
 
-
+<div align=center>
 ## ✨ Experience ✨
 2017.02 - 2021.02   
 2021.02 - 2021.04 Posco Bigdata/Ai academy  
@@ -13,7 +13,7 @@ I'm interested in Backend and ML/AI.
 
 
 ## 🌱 Tech Stack 🌱
-<div align=center>
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </br>
 
