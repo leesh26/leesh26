@@ -9,12 +9,14 @@ Hi there 👋
 </br>
     
 ## 🌱 Tech Stack 🌱
-</br>
-<center><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"></center>  
+<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  
-  
+</br>
+
+![leesh26's github stats](https://github-readme-stats.vercel.app/api?username=leesh26&show_icons=true)
+[![leesh26's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh26&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/leesh26)
+
 </div>
 
 
@@ -23,8 +25,6 @@ Hi there 👋
 
 
 
-![leesh26's github stats](https://github-readme-stats.vercel.app/api?username=leesh26&show_icons=true)
-[![leesh26's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh26&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/leesh26)
 
 <!--
 **leesh26/leesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
