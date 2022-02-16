@@ -6,6 +6,12 @@ Hi there 👋
 <div align=center>
   
 ## 💫 Interest 💫
+<ul>
+  <li>
+    <p> Backend </p>
+    <p> Machine Learning </p>
+    <p> AI </p>
+  </li>
 </br>
     
 ## 🌱 Tech Stack 🌱
