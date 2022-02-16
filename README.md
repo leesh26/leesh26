@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SoheeLee😄&fontSize=70)
+li{list-style:none;}
 
 Hi there 👋 
 
