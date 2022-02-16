@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+![leesh26's github stats](https://github-readme-stats.vercel.app/api?username=leesh26&show_icons=true)
+[![leesh26's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leesh26&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/leesh26)
+
 <!--
 **leesh26/leesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
