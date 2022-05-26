@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SoheeLee😄&fontSize=70)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh26&count_bg=%23B08FA7&title_bg=%23555555&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>
 Hi there 👋 I'm Sohee Lee.   
 I'm interested in Backend and ML/AI.  
 
@@ -25,7 +24,7 @@ I'm interested in Backend and ML/AI.
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=esh1026">
 
 </div>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesh26&count_bg=%23B08FA7&title_bg=%23555555&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) </br>
 
 <!--
 **leesh26/leesh26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
