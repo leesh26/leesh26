@@ -9,7 +9,8 @@ I'm interested in Backend and ML/AI.
   
 ## ✨ Experience ✨
 2021.02 - 2021.04 Posco Bigdata/Ai Academy  
-2021.07 - 2021.12 Infinitt healthcare Intern
+2021.07 - 2021.12 Infinitt healthcare Intern  
+2022.04 - 2022.10 Software Engineering Bootcamp - Backend
 
 
 ## 🌱 Tech Stack 🌱
